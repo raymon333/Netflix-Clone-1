@@ -31,7 +31,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 - Install dependencies: run `npm install` in root project
 - Get API key from [here](https://www.themoviedb.org/documentation/api)
-- Create .env file in root project and add: `API_KEY=YOUR_API_KEY_HERE`
+-create this file Create .env file in root project and add: `API_KEY=YOUR_API_KEY_HER
 - Run project: `npm run dev`
 
 ### User Stories
